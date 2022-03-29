@@ -2,9 +2,7 @@
     list-style: none;
     margin: 0;
     padding: 0;
-    max-height: 20rem;
-    overflow: scroll;
-    background: red;
+  
   }
   
   .total {
@@ -44,4 +42,7 @@
     color: #8a2b06;
   }
   
-  .acti
+  .actions .button {
+    background-color: #8a2b06;
+    color: white;
+  }

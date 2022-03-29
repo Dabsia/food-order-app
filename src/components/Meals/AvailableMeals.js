@@ -3,7 +3,7 @@ import classes from './AvailableMeals.module.css';
 import { DUMMY_MEALS } from './DummyMeals';
 import Card from '../UI/Card'
 import MealItem from './MealItem/MealItem';
-export {DUMMY_MEALS} from './DummyMeals'
+// export {DUMMY_MEALS} from './DummyMeals'
 
 
 const AvailableMeals = () => {
@@ -27,4 +27,4 @@ const AvailableMeals = () => {
   )
 }
 
-e
+export default AvailableMeals
